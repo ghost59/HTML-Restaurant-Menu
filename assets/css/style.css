@@ -84,3 +84,7 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.active-page a{
+    color: darkred;
+}
